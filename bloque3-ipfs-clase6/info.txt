@@ -1,0 +1,7 @@
+
+generating ED25519 keypair...done
+peer identity: 12D3KooWKPiMarTqTDGfEN1k2F7GGRGwh2VsNDKNn6safohGcPTf
+initializing IPFS node at C:\Users\roque\.ipfs
+to get started, enter:
+
+        ipfs cat /ipfs/QmQPeNsJPyVWPFDVHb77w8G42Fvo15z4bG2X8D2GhfbSXc/readme
